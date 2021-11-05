@@ -28,3 +28,5 @@
 ![Screenshot (1397)](https://user-images.githubusercontent.com/60008375/140524783-5369de7b-e6fa-4dbd-be96-39787712ff37.png)
 
 ![Screenshot (1398)](https://user-images.githubusercontent.com/60008375/140524807-1fd22988-db9a-4d19-9d7d-1abf3fe6e39c.png)
+
+После анализа гистограмм было принято решение выкинуть пики длиной больше 2000.
