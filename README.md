@@ -75,6 +75,6 @@
 
 Пример пересечения:
 
-![Screenshot (1417)](https://user-images.githubusercontent.com/60008375/140622488-4093b40e-fb87-4a82-9c35-0870fc5bc9f7.png)
+![Screenshot (1418)](https://user-images.githubusercontent.com/60008375/140622605-811f7dcf-ef77-4b17-b25c-a89cbf41b71e.png)
 
 Координаты участка: ```chr1:762,207-764,046```
