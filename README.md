@@ -38,3 +38,11 @@
 ![Screenshot (1400)](https://user-images.githubusercontent.com/60008375/140528039-5a6be096-3035-4e63-abf2-e48abb0b8ce8.png)
 
 Число пиков теперь составляет 141117 и 123301 для первого и второго экспериментов соответственно.
+
+На основе кода на R отсюда: https://github.com/vanya-antonov/hse21_H3K4me3_ZDNA_human/blob/main/src/chip_seeker.R
+
+Строим гистограммы распределения пиков в аннотированных генах
+
+![chip_seeker ENCFF271JBK_filtered plotAnnoPie](https://user-images.githubusercontent.com/60008375/140614265-1f98797e-1173-4d55-9f6a-9468ee1333fe.png)
+
+![chip_seeker ENCFF534KJU_filtered plotAnnoPie](https://user-images.githubusercontent.com/60008375/140614269-d7c89f46-0503-4a54-9ae6-d0e47dd7f055.png)
