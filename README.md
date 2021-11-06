@@ -47,7 +47,7 @@
 
 ![chip_seeker ENCFF534KJU_filtered plotAnnoPie](https://user-images.githubusercontent.com/60008375/140614269-d7c89f46-0503-4a54-9ae6-d0e47dd7f055.png)
 
-Визуализация отфильтрованных пиков и их пересечения в геномном браузере UCSC: https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr1%3A713777%2D714105&hgsid=1207219651_cbSwjRnpQXKQr8zCQfkZEb9iFmVg
+Визуализация отфильтрованных пиков и их пересечения в геномном браузере UCSC: https://genome.ucsc.edu/s/anikon/merged_marks
 
 ### Анализ участков вторичной структуры ДНК
 
@@ -70,3 +70,5 @@
 ![Screenshot (1412)](https://user-images.githubusercontent.com/60008375/140619962-c2caa68e-3e7b-4c43-b2e1-cb464162f25d.png)
 
 Количество участков в пересечении: 12706.
+
+Сохраненная сессия в геномном браузере (визуализация пересечений): https://genome.ucsc.edu/s/anikon/zdna_intersection
