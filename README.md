@@ -46,3 +46,13 @@
 ![chip_seeker ENCFF271JBK_filtered plotAnnoPie](https://user-images.githubusercontent.com/60008375/140614265-1f98797e-1173-4d55-9f6a-9468ee1333fe.png)
 
 ![chip_seeker ENCFF534KJU_filtered plotAnnoPie](https://user-images.githubusercontent.com/60008375/140614269-d7c89f46-0503-4a54-9ae6-d0e47dd7f055.png)
+
+Визуализация отфильтрованных пиков и их пересечения в геномном браузере UCSC: https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr1%3A713777%2D714105&hgsid=1207219651_cbSwjRnpQXKQr8zCQfkZEb9iFmVg
+
+### Анализ участков вторичной структуры ДНК
+
+В качестве вторичной структуры ДНК была выбрана Z-DNA, разметка DeepZ.bed.
+
+Гистограмма распределения длин участков вторичной структуры ДНК:
+
+Количество пиков:
