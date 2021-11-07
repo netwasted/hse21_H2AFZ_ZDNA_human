@@ -84,3 +84,7 @@
 Количество пиков, ассоциированных с генами: 8232.
 
 Общее количество уникальных генов: 6025.
+
+Далее был проведен GO анализ полученных уникальных генов на сайте http://pantherdb.org/
+
+Выяснилось, что наиболее значимыми категориями (с минимальным FDR) являются, к примеру, ```cellular metabolic process```, ```primary metabolic process``` и ```nitrogen compound metabolic process```. Все они относятся к ```RNA metabolic process```, которая, в свою очередь, относится к [```maturation of 5.8S rRNA```](http://amigo.geneontology.org/amigo/term/GO:0000460).
