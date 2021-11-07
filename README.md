@@ -19,7 +19,7 @@
 
 Оставляем первые 5 столбцов файлов и распаковываем их.
 
-Построение гистограммы и другой анализ производился в Google Colab: https://colab.research.google.com/drive/1bwpJatLXOj8ROi9vDaKIjQyLsQ_ZB05k?usp=sharing
+Построение гистограммы и другой анализ производился в Google Colab (также есть ноутбук в папке src): https://colab.research.google.com/drive/1bwpJatLXOj8ROi9vDaKIjQyLsQ_ZB05k?usp=sharing
 
 Выяснилось, что число пиков в первом эксперименте равно 142121, а во втором - 125410.
 
