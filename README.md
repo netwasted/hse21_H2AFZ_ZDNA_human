@@ -1,4 +1,9 @@
 # Anastasia Kolchina 191
+
+## HW-2
+
+[Ссылка](https://github.com/netwasted/hse21_H2AFZ_ZDNA_human/blob/main/hw2_bio%20(2).ipynb)
+
 ## HSE Bioinformatics Elective 2021 - Homework №1
 
 ## hse21_H2AFZ_ZDNA_human
